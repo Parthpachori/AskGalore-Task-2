@@ -1,0 +1,23 @@
+# Environments
+.env
+venv/
+env/
+ENV/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Databases and generated indexes
+physio_memory.db
+physio_memory.db-journal
+db/
+
+# Data files
+data/*.pdf
+data/*.csv
+
+# IDEs
+.vscode/
+.idea/
